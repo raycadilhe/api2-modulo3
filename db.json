@@ -1,0 +1,17 @@
+{
+    "Cuidados": [
+        {
+            "id" : 1,
+            "descricao" : "Mantenha a área limpa: A área da tatuagem deve ser mantida limpa e seca para evitar a contaminação por bactérias e infecções. Lave suavemente com sabão neutro. Seque com uma toalha limpa e macia."
+        },
+        {
+            "id": 2,
+            "descricao" : "Hidrate a pele: Mantenha a área da tatuagem hidratada para ajudar a prevenir a descamação e a perda de cor. Use uma loção hidratante sem fragrância ou álcool."
+        },
+        {
+            "id": 3,
+            "descricao" : "Proteja do sol: A exposição ao sol pode desbotar a tatuagem e causar danos à pele. Use protetor solar com um fator de proteção solar (FPS) de pelo menos 30 e evite expor a tatuagem ao sol durante as primeiras semanas de cicatrização."
+        }
+    ]
+    }
+

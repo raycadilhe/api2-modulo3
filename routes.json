@@ -1,0 +1,6 @@
+{
+    "GET/tatuadores/list": "/cuidados/",
+    "POST/tatuadores/create": "/cuidados/",
+    "PUT/tatuadores/update/:id": "/cuidados/:id",
+    "DELETE/tatuadores/delete/:id": "/cuidados/:id"
+}
